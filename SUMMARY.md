@@ -1,5 +1,5 @@
 # Summary
 
 * [About Me](about_me.md)
-* Why Rust?
+* [Why Rust?](why_rust.md)
 
