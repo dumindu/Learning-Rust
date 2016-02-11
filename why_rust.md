@@ -1,2 +1,31 @@
 # Why Rust?
 
+Rust initially designed and developed by Mozilla employee Graydon Hoare as a personal project. Mozilla began sponsoring the project in 2009 and announced it in 2010. But the first stable release, Rust 1.0 released on May 15, 2015.
+
+[![Rethinking Systems Programming](1*gX8C_mP0eETkwYjdCH16qQ.png)](http://thoughtram.io/rust-and-nickel/#/11)
+
+The goal of Rust is to be a good language for creating highly concurrent and highly safe systems. Also as you can see on above diagram, Rust designed to provide speed and safety at the same time.
+
+> "Rust is a systems programming language focused on three goals: safety, speed, and concurrency."   
+__ Rust Documentation
+
+Rust is very young and very modern language. It's a **compiled programming language** and it uses [LLVM](https://en.wikipedia.org/wiki/LLVM) on its backend. Also Rust is a **multi-paradigm programming language**, it supports imperative procedural, concurrent actor, object-oriented and pure functional styles. It also supports generic programming and meta programming, in both static and dynamic styles.
+
+
+Its design elements came from a wide range of sources.
+
+* Abstract Machine Model : **C**
+* Data types : **C, SML, OCaml, Lisp, Limbo**
+* Optional Bindings : **Swift**
+* Hygienic Macros : **Scheme**
+* Functional Programming : **Haskell, OCaml, F#**
+* Attributes : **ECMA**-335
+* Memory Model and Memory Management : **C++, ML Kit, Cyclone**
+* Type Classes : **Haskell**
+* Crate : Assembly in the **ECMA**-335 CLI model
+* Channels and Concurrency : **Newsqueak, Alef, Limbo**
+* Message passing and Thread failure : **Erlang**  
+
+and etc.
+
+> 🔎 One of Rust’s most unique and compelling features is [ownership](https://doc.rust-lang.org/stable/book/ownership.html), which uses to achieves memory safety. Rust creates memory pointers optimistically, checks memory pointers’ limited accesses at the compiler time with the usage of [References and Borrowing](https://doc.rust-lang.org/stable/book/references-and-borrowing.html). And it does automatic compile time memory management by checking the [Lifetimes](https://doc.rust-lang.org/stable/book/lifetimes.html).
