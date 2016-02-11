@@ -28,4 +28,9 @@ Its design elements came from a wide range of sources.
 
 and etc.
 
+Rust **doesn't use an automated garbage collection** system(GC) by default.
+
 > 🔎 One of Rust’s most unique and compelling features is [ownership](https://doc.rust-lang.org/stable/book/ownership.html), which uses to achieves memory safety. Rust creates memory pointers optimistically, checks memory pointers’ limited accesses at the compiler time with the usage of [References and Borrowing](https://doc.rust-lang.org/stable/book/references-and-borrowing.html). And it does automatic compile time memory management by checking the [Lifetimes](https://doc.rust-lang.org/stable/book/lifetimes.html).
+
+Rust compiler observe the code at compiler time and help to [prevent many types of errors](https://doc.rust-lang.org/error-index.html) that are possible to write in C++
+
