@@ -39,7 +39,7 @@ As you can see both use to document the same module. First comment has been adde
 
 Also we can use **doc attributes** for documenting the code.
 
-> 🔎An [attribute](https://doc.rust-lang.org/reference.html#attributes) is a general, free-form **metadatum** that is interpreted according to name, convention, and language and compiler version. Any item declaration may have an attribute applied to it. 
+> 🔎 An [attribute](https://doc.rust-lang.org/reference.html#attributes) is a general, free-form **metadatum** that is interpreted according to name, convention, and language and compiler version. Any item declaration may have an attribute applied to it. 
 
 In here each comments are equivalent to relevant data attributes.
 
