@@ -7,5 +7,5 @@
 * [Hello World](hello_world.md)
 * [Cargo, Crates and Basic Project Structure](cargo,_crates_and_basic_project_structure.md)
 * [Comments and Documenting the code](comments_and_documenting_the_code.md)
-* Variable bindings , Constants & Statics
+* [Variable bindings , Constants & Statics](variable_bindings_,_constants_&_statics.md)
 
