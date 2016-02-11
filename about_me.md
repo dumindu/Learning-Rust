@@ -5,7 +5,7 @@ I'm [Dumindu Madunuwan](https://lk.linkedin.com/in/dumindunuwan). I'm a web deve
 
 Around 2007–2009, I chose web because at that time I truly believed, web will be the next ultimate, system independent & language independent platform and the next generation software ecosystem will be implemented top of browsers. The web I expected is sort of similar to this.
 
-[![The Future of The Web : Mozilla Labs Aurora Concept Browser](http://img.youtube.com/vi/FZ-zvx1QCcA/0.jpg)](http://www.youtube.com/watch?v=FZ-zvx1QCcA)
+[![The Future of The Web : Mozilla Labs Aurora Concept Browser](Screen Shot 2016-02-11 at 9.08.29 PM.png)](http://www.youtube.com/watch?v=FZ-zvx1QCcA)
 
 Like some of web developers, I truly bet on HTML5 over native apps on past years. I learned about HTML5, CSS3, RWD, Mobile First Design, UI/UX and etc. Now a days we have hundreds of front-end frameworks but still web technologies can't win over native apps, especially on performance.
 
