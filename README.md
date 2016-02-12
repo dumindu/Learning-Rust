@@ -30,6 +30,7 @@ For more information you can go through,
 5. [Rust Essentials (book)](https://www.safaribooksonline.com/search/?query=%22Rust+Essentials%22)
 
 To get a help,
+
 1. [The Rust Community](https://www.rust-lang.org/community.html)
 2. [Sub-Reddit, /r/rust](https://www.reddit.com/r/rust)
 
