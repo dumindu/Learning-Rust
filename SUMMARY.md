@@ -10,5 +10,5 @@
 * [Variable bindings , Constants & Statics](variable_bindings_,_constants_&_statics.md)
 * [Functions](functions.md)
 * [Primitive Data Types](primitive_data_types.md)
-* Operators
+* [Operators](operators.md)
 
