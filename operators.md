@@ -103,4 +103,4 @@ let b = (a as f64) / 2.0; //7.5
 
 The **& or &mut** operators are used for **borrowing** and ***** operator for **Dereferencing**. 
 
-🔎 Usage of these operators is an advanced topic, for more information use [Rust Reference Documentation](https://doc.rust-lang.org/reference.html#unary-operator-expressions).
+> 🔎 Usage of these operators is an advanced topic, for more information use [Rust Reference Documentation](https://doc.rust-lang.org/reference.html#unary-operator-expressions).
