@@ -3,7 +3,7 @@
 Hi,
 I'm [Dumindu Madunuwan](https://lk.linkedin.com/in/dumindunuwan). I'm a web developer, mainly PHP.  
 
-Around 2007–2009, I chose web because at that time I truly believed, web will be the next ultimate, system independent & language independent platform and the next generation software ecosystem will be implemented top of browsers. The web I expected is sort of similar to this.
+Around 2007–2009, I chose web development because at that time I truly believed, web will be the next ultimate, system independent & language independent platform and the next generation software ecosystem will be implemented top of browsers. The web I expected is sort of similar to this.
 
 [![The Future of The Web : Mozilla Labs Aurora Concept Browser](Screen Shot 2016-02-11 at 9.08.29 PM.png)](http://www.youtube.com/watch?v=FZ-zvx1QCcA)
 
