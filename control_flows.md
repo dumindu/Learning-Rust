@@ -51,7 +51,7 @@ while a <= 10 {
 	a += 1; //no ++ or -- on Rust
 }
 
-
+// Usage of break and continue
 let mut b = 0;
 while b < 5 {
 	if b == 0 { 
@@ -66,7 +66,7 @@ while b < 5 {
 	b += 1;
 }
 
-
+// Outer break
 let mut c1 = 1;
 'outer_while: while c1 < 6 { //set label outer_while
 	let mut c2 = 1;
@@ -87,7 +87,7 @@ loop {
 	println!("Loop forever!");
 }
 
-
+// Usage of break and continue
 let mut a = 0;
 loop {
 	if a == 0 {
@@ -102,7 +102,7 @@ loop {
 	a += 1;
 }
 
-
+// Outer break
 let mut b1 = 1;
 'outer_loop: loop { //set label outer_loop
   let mut b2 = 1;
