@@ -84,7 +84,7 @@ println!("{:?}", a); //[1, 2, 3]
 
 🌟 Arrays are **immutable** by default and also **even with mut, its element count can not be changed**.
 
-> 🔎 If you are looking for a dynamic array, you can use **Vec**. Vectors can contain any type of elements but all elements must be in the same data type.
+> 🔎 If you are looking for a dynamic/growable array, you can use **Vec**. Vectors can contain any type of elements but all elements must be in the same data type.
 
 
 * **tuples** : fixed-size ordered list of elements of different(or same) data types
