@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "github-buttons",
         "theme-default"
     ],
     "pluginsConfig": {}
