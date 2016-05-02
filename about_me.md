@@ -16,9 +16,9 @@ Also in the other hand, now we have much powerful alternatives for PHP, like nod
 
 ---
 
-[![Medium](Medium.png)](https://medium.com/@dumindu "Medium")
-[![Reddit](Reddit.png)](https://www.reddit.com/user/dumindunuwan/ "Reddit")
-[![Github](Github.png)](https://github.com/dumindu/ "Github")
-[![LinkedIn](LinkedIn.png)](https://lk.linkedin.com/in/dumindunuwan/ "LinkedIn")
-[![Pinterest](Pinterest.png)](https://www.pinterest.com/dumindu/ "Pinterest")
-[![Behance](Behance.png)](https://www.behance.net/dumindu-madunuwan/ "Behance")
+[![Medium](icons/medium.png)](https://medium.com/@dumindu "Medium")
+[![Reddit](icons/reddit.png)](https://www.reddit.com/user/dumindunuwan/ "Reddit")
+[![Github](icons/github.png)](https://github.com/dumindu/ "Github")
+[![LinkedIn](icons/linkedin.png)](https://lk.linkedin.com/in/dumindunuwan/ "LinkedIn")
+[![Pinterest](icons/pinterest.png)](https://www.pinterest.com/dumindu/ "Pinterest")
+[![Behance](icons/behance.png)](https://www.behance.net/dumindu-madunuwan/ "Behance")
