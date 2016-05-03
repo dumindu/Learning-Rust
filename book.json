@@ -1,5 +1,3 @@
 {
-  "root": "./book"
-  "plugins": [],
-  "pluginsConfig": {}
+    "root": "./docs"
 }
