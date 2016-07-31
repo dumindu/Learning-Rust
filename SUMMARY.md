@@ -8,7 +8,7 @@
 * [Cargo, Crates and Basic Project Structure](04. cargo,_crates_and_basic_project_structure.md)
 * [Comments and Documenting the code](05. comments_and_documenting_the_code.md)
 * [Variable bindings , Constants & Statics](06. variable_bindings_,_constants_&_statics.md)
-* [Functions](functions.md)
+* [Functions](07. functions.md)
 * [Primitive Data Types](primitive_data_types.md)
 * [Operators](operators.md)
 * [Control Flows](control_flows.md)
