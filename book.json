@@ -1,7 +1,5 @@
 {
     "root": "./book",
-    "plugins": [
-        "-gist"
-    ],
+    "plugins": [],
     "pluginsConfig": {}
 }
