@@ -11,5 +11,5 @@
 * [Functions](07. functions.md)
 * [Primitive Data Types](08. primitive_data_types.md)
 * [Operators](09. operators.md)
-* [Control Flows](control_flows.md)
+* [Control Flows](10. control_flows.md)
 
