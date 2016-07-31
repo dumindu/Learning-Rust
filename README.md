@@ -18,6 +18,7 @@ __ Alan Perlis
 9. [Operators](operators.md)
 10. [Control Flows](control_flows.md)
 
+&nbsp;
 
 > “If a person will spend one hour a day on the same subject for five years, that person will be an expert on that subject.”  
 __ Earl Nightingale
