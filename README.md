@@ -1,9 +1,10 @@
-# Rust Basics
+# Learning Rust
+I am a Web Developer and just learning Rust. In here I tried to summarize what I learned and time to time I'll update this book. Hope this will be helpful for newcomers like me :)
 
+
+#### RUST BASICS
 > “A language that doesn’t affect the way you think about programming, is not worth knowing.”  
 __ Alan Perlis
-
-I am a Web Developer and just learning Rust. In here I tried to summarize what I learned and time to time I'll update this book. Hope this will be helpful for newcomers like me :)
 
 1. [Why Rust?](why_rust.md)
 2. [Installation](installation.md)
@@ -16,7 +17,15 @@ I am a Web Developer and just learning Rust. In here I tried to summarize what I
 9. [Operators](operators.md)
 10. [Control Flows](control_flows.md)
 
+#### RUST : BEYOND THE BASICS
+> “If a person will spend one hour a day on the same subject for five years, that person will be an expert on that subject.”  
+__ Earl Nightingale
 
+11. Vectors
+12. Structs
+13. Enums
+14. Generics
+15. Impls & Traits
 
 ---
 
@@ -33,4 +42,5 @@ To get a help,
 
 1. [The Rust Community](https://www.rust-lang.org/community.html)
 2. [Sub-Reddit, /r/rust](https://www.reddit.com/r/rust)
+3. [Rust Community Discord Server](https://discord.gg/b4ueU6C)
 
