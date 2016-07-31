@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [About Me](about_me.md)
-* [Why Rust?](01.why_rust.md)
+* [Why Rust?](01. why_rust.md)
 * [Installation](02. installation.md)
 * [Hello World](03. hello_world.md)
 * [Cargo, Crates and Basic Project Structure](04. cargo,_crates_and_basic_project_structure.md)
