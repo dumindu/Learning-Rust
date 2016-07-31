@@ -12,5 +12,4 @@
 * [Primitive Data Types](08. primitive_data_types.md)
 * [Operators](09. operators.md)
 * [Control Flows](10. control_flows.md)
-   * Vectors
 
