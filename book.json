@@ -1,3 +1,7 @@
 {
-    "root": "./book"
+    "root": "./book",
+    "plugins": [
+        "gist"
+    ],
+    "pluginsConfig": {}
 }
