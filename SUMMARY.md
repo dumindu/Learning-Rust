@@ -16,5 +16,5 @@
 * [Structs](12. structs.md)
 * [Enums](13. enums.md)
 * [Generics](14. generics.md)
-* Impls & Traits
+* [Impls & Traits](15. Impls_and_traits.md)
 
