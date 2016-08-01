@@ -15,5 +15,5 @@
 * [Vectors](11. vectors.md)
 * [Structs](12. structs.md)
 * [Enums](13. enums.md)
-* Generics
+* [Generics](14. generics.md)
 
