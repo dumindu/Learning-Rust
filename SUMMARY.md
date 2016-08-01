@@ -14,5 +14,5 @@
 * [Control Flows](10. control_flows.md)
 * [Vectors](11. vectors.md)
 * [Structs](12. structs.md)
-* Enums
+* [Enums](13. enums.md)
 
