@@ -3,7 +3,7 @@ I am a Web Developer and just learning Rust. In here I tried to summarize what I
 
 
 #### 01. RUST BASICS
-1. [Why Rust?](01. why_rust.md)
+1. [Why Rust?](01. why_rust)
 2. [Installation](02. installation.md)
 3. [Hello World](03. hello_world.md)
 4. [Cargo, Crates and Basic Project Structure](04. cargo,_crates_and_basic_project_structure.md)
