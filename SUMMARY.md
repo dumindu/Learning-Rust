@@ -13,5 +13,5 @@
 * [Operators](09. operators.md)
 * [Control Flows](10. control_flows.md)
 * [Vectors](11. vectors.md)
-* Structs
+* [Structs](12. structs.md)
 
