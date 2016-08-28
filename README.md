@@ -26,4 +26,4 @@ I am a Web Developer and just learning Rust. In here I tried to summarize what I
 &nbsp;
 
 
-[📚 Ⓡⓔⓢⓞⓤⓡⓒⓔⓢ ](resources.html)
+[📚 Ⓡⓔⓢⓞⓤⓡⓒⓔⓢ](resources.html)
