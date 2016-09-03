@@ -1,6 +1,8 @@
 # Learning Rust
 I am a Web Developer and just learning Rust. In here I tried to summarize what I learned and time to time I'll update this book. Hope this will be helpful for newcomers like me :)
 
+This is based on the posts I wrote on Medium, https://medium.com/learning-rust
+
 
 #### 01. RUST BASICS
 1. [Why Rust?](01. why_rust.html)
