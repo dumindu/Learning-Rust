@@ -1,10 +1,11 @@
 # Learning Rust
-I am a Web Developer and just learning Rust. In here I tried to summarize what I learned and time to time I'll update this book. Hope this will be helpful for newcomers like me :)
 
-This is based on the posts I wrote on Medium, https://medium.com/learning-rust
+I am a Web Developer and just learning Rust. In here I tried to summarize what I learned and time to time I'll update this book. Hope this will be helpful for newcomers like me :\)
 
+This is based on the posts I wrote on Medium, [https://medium.com/learning-rust](https://medium.com/learning-rust)
 
 #### 01. RUST BASICS
+
 1. [Why Rust?](01. why_rust.html)
 2. [Installation](02. installation.html)
 3. [Hello World](03. hello_world.html)
@@ -17,15 +18,18 @@ This is based on the posts I wrote on Medium, https://medium.com/learning-rust
 10. [Control Flows](10. control_flows.html)
 
 #### 02. RUST : BEYOND THE BASICS
-11. [Vectors](11. vectors.html)
-12. [Structs](12. structs.html)
-13. [Enums](13. enums.html)
-14. [Generics](14. generics.html)
-15. [Impls & Traits](15. Impls_and_traits.html)
 
+1. [Vectors](11. vectors.html)
+2. [Structs](12. structs.html)
+3. [Enums](13. enums.html)
+4. [Generics](14. generics.html)
+5. [Impls & Traits](15. Impls_and_traits.html)
 
+### 03. RUST : THE TOUGH PART
 
-&nbsp;
+I will update the gitbook soon. Until that please use the [Medium post](https://medium.com/learning-rust/rust-the-tough-part-2ea11ed3693e)
 
+ 
 
 [📚 Ⓡⓔⓢⓞⓤⓡⓒⓔⓢ](resources.html)
+
