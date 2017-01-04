@@ -17,4 +17,5 @@
 * [Enums](13. enums.md)
 * [Generics](14. generics.md)
 * [Impls & Traits](15. Impls_and_traits.md)
+* [Ownership](ownership.md)
 
