@@ -19,5 +19,5 @@
 * [Impls & Traits](15. Impls_and_traits.md)
 * [Ownership](16. ownership.md)
 * [Borrowing](borrowing.md)
-* Lifetimes
+* [Lifetimes](lifetimes.md)
 
