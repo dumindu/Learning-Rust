@@ -18,6 +18,6 @@
 * [Generics](14. generics.md)
 * [Impls & Traits](15. Impls_and_traits.md)
 * [Ownership](16. ownership.md)
-* [Borrowing](borrowing.md)
-* [Lifetimes](lifetimes.md)
+* [Borrowing](17. borrowing.md)
+* [Lifetimes](18. lifetimes.md)
 
