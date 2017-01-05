@@ -27,9 +27,10 @@ This is based on the posts I wrote on Medium, [https://medium.com/learning-rust]
 
 ### 03. RUST : THE TOUGH PART
 
-I will update the gitbook soon. Until that please use the [Medium post](https://medium.com/learning-rust/rust-the-tough-part-2ea11ed3693e)
-
+1. [Ownership](16. ownership.md)
+2. [Borrowing](17. borrowing.md)
+3. [Lifetimes](18. lifetimes.md)
  
 
-[📚 Ⓡⓔⓢⓞⓤⓡⓒⓔⓢ](resources.html)
+[📚](resources.md)
 
