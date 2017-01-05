@@ -27,9 +27,9 @@ This is based on the posts I wrote on Medium, [https://medium.com/learning-rust]
 
 #### 03. RUST : THE TOUGH PART
 
-1. [Ownership](16. ownership.md)
-2. [Borrowing](17. borrowing.md)
-3. [Lifetimes](18. lifetimes.md)
+1. [Ownership](16. ownership.html)
+2. [Borrowing](17. borrowing.html)
+3. [Lifetimes](18. lifetimes.html)
 
 
 
