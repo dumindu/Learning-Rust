@@ -32,5 +32,5 @@ This is based on the posts I wrote on Medium, [https://medium.com/learning-rust]
 3. [Lifetimes](18. lifetimes.md)
  
 
-[📚](resources.md)
+
 
