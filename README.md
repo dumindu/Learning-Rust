@@ -25,7 +25,7 @@ This is based on the posts I wrote on Medium, [https://medium.com/learning-rust]
 4. [Generics](14. generics.html)
 5. [Impls & Traits](15. Impls_and_traits.html)
 
-### 03. RUST : THE TOUGH PART
+#### 03. RUST : THE TOUGH PART
 
 1. [Ownership](16. ownership.md)
 2. [Borrowing](17. borrowing.md)
