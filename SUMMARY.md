@@ -20,5 +20,5 @@
 * [Ownership](16. ownership.md)
 * [Borrowing](17. borrowing.md)
 * [Lifetimes](18. lifetimes.md)
-* [Recommended Resources](recommended-resources.md)
+* [Recommended Resources](recommended_resources.md)
 
