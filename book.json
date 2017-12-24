@@ -1,5 +1,3 @@
 {
-      "plugins": [ "page-toc" ],
-      "pluginsConfig": {
-      }
-    }
+   "plugins": [ "page-toc" ],
+}
