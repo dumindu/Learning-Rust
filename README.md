@@ -1,10 +1,6 @@
 # Learning Rust 🚧
 
-🔥 🔥 🔥 This project has been moved to https://learning-rust.github.io 🔥 🔥 **🔥**
-
-
-
-
+> 🔥 🔥 🔥 This project has been moved to [https://learning-rust.github.io](https://learning-rust.github.io) 🔥 🔥 🔥
 
 
 
